@@ -1,0 +1,48 @@
+{
+    "portfolio": [
+      {
+        "cover": "/portfolio/1/one.jpeg",
+        "title": "MovieApp",
+        "description": "React, APIs, HTML, JS",
+        "url": "https://github.com/SemraGunaydin/MovieApp"
+      },
+    
+      {
+        "cover": "/portfolio/2/todoapp.jpeg",
+        "title": "Contact-Lists",
+        "description": "React, LocalStorage, CSS Modules",
+        "url": "https://github.com/SemraGunaydin/Contact-Lists"
+      },
+      {
+        "cover": "/portfolio/3/weather.jpeg",
+        "title": "Spotify-Clone",
+        "description": "React, OpenWeather API, TailwindCSS",
+        "url": "https://github.com/SemraGunaydin/Spotify-Clone"
+      },
+      {
+        "cover": "/portfolio/4/portfolio.jpeg",
+        "title": "COSTY-Project",
+        "description": "React, EmailJS, Leaflet, SCSS",
+        "url": "https://github.com/SemraGunaydin/COSTY-Project "
+      },
+      {
+        "cover": "/portfolio/5/ecommerce.jpeg",
+        "title": "Coffe_shop_project",
+        "description": "React, Redux, Stripe API",
+        "url": "https://github.com/SemraGunaydin/Coffe_shop_project"
+      },
+      {
+        "cover": "/portfolio/6/calculator.jpeg",
+        "title": "JBL-Clone",
+        "description": "HTML, CSS, JavaScript",
+        "url": "https://github.com/SemraGunaydin/JBL-Clone"
+      },
+      {
+        "cover": "/portfolio/7/blog.jpeg",
+        "title": "Amazon_clone",
+        "description": "Next.js, Markdown, TailwindCSS",
+        "url": "https://github.com/SemraGunaydin/Amazon_clone"
+      }
+      
+    ]
+  }
